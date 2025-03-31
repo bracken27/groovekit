@@ -32,5 +32,4 @@ GrooveKit is released under the MIT License. See `LICENSE` for more details.
 
 ---
 
-**Join us in making electronic music education more accessible and engaging!**
-
+**Join us in making electronic music education more accessible and engaging! :)**
