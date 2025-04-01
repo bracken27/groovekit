@@ -17,5 +17,6 @@ x64/Release/
 
 # Ignore user-specific JUCE path configuration
 cmake/JUCEPath.cmake
+cmake/TracktionPath.cmake
 
 .idea/
