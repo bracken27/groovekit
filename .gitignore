@@ -35,3 +35,26 @@ groovekit.db
 /CLAUDE.md
 .claude/
 /SESSION_NOTES.md
+
+# --- Build artifacts ---
+cmake-build*/
+build*/
+Builds/
+out/
+
+# --- Visual Studio / Windows build outputs ---
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.idb
+*.ipch
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+.vs/
+
+# --- macOS ---
+.DS_Store
+
